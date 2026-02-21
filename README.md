@@ -3,8 +3,6 @@
 ## Opis projektu
 Projekt koncentrujący się na problemie rotacji pracowników. Głównym celem analizy jest eksploracja danych oraz budowa modelu klasyfikacyjnego, który pozwoli na wczesne zidentyfikowanie pracowników zagrożonych odejściem z firmy. Trafna predykcja w tym obszarze pozwala organizacji zaoszczędzić koszty związane z rekrutacją i szkoleniem nowych osób.
 
-Projekt ten koncentruje się na klasycznym problemie biznesowym w obszarze analityki HR, jakim jest rotacja pracowników (Employee Attrition). Głównym celem analizy jest eksploracja danych oraz budowa modelu klasyfikacyjnego, który pozwoli na wczesne zidentyfikowanie pracowników zagrożonych odejściem z firmy. Trafna predykcja w tym obszarze pozwala organizacji zaoszczędzić koszty związane z rekrutacją i szkoleniem nowych osób.
-
 ## Zbiór danych
 Analiza opiera się na połączeniu trzech zbiorów danych, które razem dają pełny obraz sytuacji pracownika w firmie:
 * **`df1`**: Zawiera kluczowe cechy demograficzne (np. wiek, wykształcenie, stan cywilny) oraz specyfikę stanowiska (dział, rola). Pozwala odpowiedzieć na pytanie: *"Kto odchodzi?"*.
